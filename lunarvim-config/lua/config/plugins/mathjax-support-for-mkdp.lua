@@ -1,3 +1,3 @@
-return{
-    "iamcco/mathjax-support-for-mkdp"
+return {
+  "iamcco/mathjax-support-for-mkdp"
 }

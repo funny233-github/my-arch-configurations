@@ -1,3 +1,3 @@
 return {
-    'twh2898/vim-scarpet'
+  'twh2898/vim-scarpet'
 }
