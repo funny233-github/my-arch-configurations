@@ -22,5 +22,11 @@ lvim.plugins = {
   require('config.plugins.rust-vim'),
 
   -- code formatter
-  require('config.plugins.conform_nvim')
+  require('config.plugins.conform_nvim'),
+
+  -- for go
+  require('config.plugins.go_nvim'),
+
+  -- for lean
+  require('config.plugins.lean-nvim'),
 }
