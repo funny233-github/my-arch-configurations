@@ -1,4 +1,4 @@
 diff i3-config/config ~/.config/i3/config
 diff kitty-config/kitty.conf ~/.config/kitty/kitty.conf
-diff -r lunarvim-config/ ~/.config/lvim/
+diff -r lvim/ ~/.config/lvim/
 diff picom-config/picom.conf ~/.config/picom/picom.conf
